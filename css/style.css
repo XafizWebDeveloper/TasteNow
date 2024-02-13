@@ -1,0 +1,295 @@
+body{
+  
+}
+ 
+header{
+  width: 1767px;
+  height: 1178px;
+  top: -274px;
+  left: 164px;
+  
+}
+
+.layout{
+  width: 153px;
+  height: 77px;
+  top: 20px;
+  left: 100px;
+  font: Praise, Times New Roman;
+  font-weight: 400;
+  size: 48px;
+  line-height: 57.6px;
+  text-align: center;
+  color: rgba(247,45,87,1);
+}
+
+.first_row{
+  display: flex;
+  
+}
+
+.ul_row{
+  display: flex;
+  gap: 20px;
+}
+
+.ul_option{
+  width: 552px;
+  height: 43px;
+  top: 37px;
+  left: 598px;
+  justify-content: flex-end;
+}
+
+.home{
+  width: 60px;
+height: 30px;
+top: 43px;
+left: 598px;
+font-family: Poppins, 'Times New Roman', Times, serif;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+color: rgba(247, 45, 87, 1);
+}
+
+.about{
+width: 87px;
+height: 30px;
+top: 43px;
+left: 708px;
+}
+
+.blog{
+width: 49px;
+height: 30px;
+top: 43px;
+left: 845px;
+padding: 0px, 3px, 0px, 2px;
+}
+
+.contact{
+width: 113px;
+height: 30px;
+top: 43px;
+left: 944px;
+padding: 0px, 2px, 0px, 1px;
+}
+
+.btn{
+width: 140px;
+height: 46px;
+top: 34px;
+left: 1200px;
+background-color: brown;
+}
+
+.second_row{
+  display: flex;
+  
+}
+
+.experience{
+
+width: 574px;
+height: 144px;
+top: 198px;
+left: 100px;
+font-family: Poppins, Georgia, 'Times New Roman', Times, serif;
+font-size: 48px;
+font-weight: 700;
+line-height: 72px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.p_option{
+width: 517px;
+height: 72px;
+top: 366px;
+left: 100px;
+font-family: Poppins, Verdana, Geneva, Tahoma, sans-serif;
+font-size: 16px;
+font-weight: 300;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(63, 63, 63, 1);
+}
+
+.popular{
+  background-color: aqua;
+width: 571px;
+height: 72px;
+top: 729px;
+left: 434px;
+font-family: Poppins, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 48px;
+font-weight: 600;
+line-height: 72px;
+letter-spacing: 0em;
+text-align: center;
+}
+
+.names_foods{
+ display: flex;
+ list-style: none;
+ justify-content: space-between;
+ align-items: center;
+ gap: 13px;
+}
+
+.narxlari{
+  display: flex;
+  list-style: none;
+ justify-content: space-between;
+ align-items: center;
+ gap: 13px;
+}
+
+.li_item{
+  display: flex;
+  list-style: none;
+ justify-content: space-between;
+ align-items: center;
+ gap: 13px;
+}
+
+.section_option{
+list-style: none;
+width: 1440px;
+height: 400px;
+top: 1490px;
+background-color: rgba(247, 45, 87, 1);
+display: flex;
+}
+
+.dont_miss{
+  display: flex;
+}
+
+.photo_burger{
+width: 615px;
+height: 534px;
+top: 1417px;
+left: 100px;
+}
+
+.matn{
+width: 569px;
+height: 108px;
+top: 1590px;
+left: 770px;
+font-family: Poppins, Times New Roman;
+font-size: 36px;
+font-weight: 700;
+line-height: 54px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.sign{
+  width: 517px;
+  height: 72px;
+  top: 1718px;
+  left: 770px;
+  font-family: Poppins, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+ }
+
+ .food_section_delivery{
+  text-decoration: none;
+ }
+
+ .food_delivery{
+width: 395px;
+height: 108px;
+top: 2179px;
+left: 100px;
+font-family: Poppins;
+font-size: 36px;
+font-weight: 700;
+line-height: 54px;
+letter-spacing: 0em;
+text-align: left;
+ }
+
+.if_your{
+  width: 582px;
+  height: 72px;
+  top: 2307px;
+  left: 100px;
+  font-family: Poppins;
+font-size: 16px;
+font-weight: 300;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.pizza{
+  width: 300px;
+  height: 86px;
+  top: 832px;
+  left: 100px;
+  border-radius: 5px;
+  background: rgba(247, 45, 87, 1);
+}
+
+.pizza_text{
+width: 101.43px;
+height: 44.23px;
+top: 853px;
+left: 227.07px;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+background: rgba(255, 255, 255, 1);
+}
+
+.buterbrod{
+width: 35px;
+height: 28px;
+top: 29px;
+left: 77px;
+border: 2px;
+border: 2px solid rgba(247, 45, 87, 1)
+}
+
+.burgers{
+width: 92px;
+height: 36px;
+top: 25px;
+left: 132px;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+background: rgba(247, 45, 87, 1);
+}
+
+.salads{
+width: 82px
+height: 36px
+top: 25px
+left: 137px
+}
+
+.food_del{
+  display: flex;
+}
+
+.work{
+  display: flex;
+}
